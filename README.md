@@ -18,4 +18,4 @@ I also like to keep learning, so I will share the courses I have finished and th
 
 This README is a bit chaotic, but it should give you a rough idea of what lives here. I want to treat this page as a personal, isolated diary, away from the noise of every new technology out there.
 
-If you want to reach me, drop me an email at francisco.gubbins@gmail.com
+If you want to reach me, drop me an email at franciscogubbins@gmail.com
